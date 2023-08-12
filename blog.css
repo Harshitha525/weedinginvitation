@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.display-flex{
+    display: flex;
+    align-items: center;
+}
+.header{
+    justify-content: space-between;
+    color: black;
+    padding: 25px;
+}
+.header i{
+    font-size: 25px;
+}
+
+
+.header>div:nth-child(1){
+    padding-left: 100px; 
+}
+.header>div:nth-child(2){
+    padding-right: 100px;
+}
+.contact div {
+    margin-left: 10px;
+}
+.contact p,h6{
+    font-size: 16px;
+}
+
+.contact-info>div:nth-child(2){
+    padding-left: 25px;
+    justify-content: space-evenly;
+}
+
+
+.header2{
+    padding: 25px;
+    background-color: #343a40;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.navigate ul{
+    list-style: none;
+    
+}
+.navigate ul li{
+    padding-left: 35px;
+    
+}
+.navigate a{
+    text-decoration: none;
+    color: #a9a9a0;
+}
+
+.navigate a:hover{
+    color: #fff;
+}
+
+#reg-button{
+    background-color: transparent;
+    border: 2px solid #7cbd1e;
+    padding: 10px 30px;  
+}
+
+#reg-button a{
+    text-decoration: none;
+    color: #fff;
+}
+#reg-button:hover{
+    background-color: #7cbd1e;
+}
+#log-button{
+    background-color: #7cbd1e;
+    border: 2px solid #7cbd1e;
+    padding: 10px 30px;
+}
+#log-button a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.Affordable{
+    background-image: url("https://preview.colorlib.com/theme/server/images/hero_bg_1.jpg");
+    background-position: center;
+    background-repeat: none;
+    padding: 150px;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+#dow-button a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#get-button{
+    background-color: transparent;
+    border: 2px solid #7cbd1e;
+    padding: 18px 50px;  
+}
+
+#get-button a{
+    text-decoration: none;
+    color: #fff;
+}
+#get-button:hover{
+    background-color: #7cbd1e;
+}
+
+
+.Affordable h2{
+    color:#fff;
+    font-size:40px;
+}
+
+.Affordable p{
+     color:#7cbd1e;
+     font-size:20px;
+}
+
+.pic{
+ padding:50px;
+ justify-content:space-evenly;
+ background-position: center;
+    background-repeat: none;
+    padding: 50px;
+    background-attachment: fixed;
+    text-align: center;
+}
+ 
+
+
+.pic{
+    padding-left:215px;
+    padding-right:215px;
+}
+
+.lady{
+    background-image: url("https://preview.colorlib.com/theme/server/images/hero_bg_1.jpg");
+    
+    height:300px;
+    width:300px;
+
+
+}
+
+.words{
+    padding-left:215px;
+    padding-right:215px;
+}
+
+.para{
+padding-left: 80px;
+padding-right:80px; 
+background-color:#a9a9a0;
+margin:5px;
+
+}

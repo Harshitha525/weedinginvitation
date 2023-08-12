@@ -1,0 +1,283 @@
+.title h3{
+    position:sticky;
+    top:0px;
+
+}
+.items{
+    position:sticky;
+    top:0px;
+}
+
+
+
+.display-flex{
+    padding-top:15px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.sticky{
+    position:sticky;
+    top:0px;
+
+}
+.menu{
+    padding-left:20px;
+    padding-right:150px;
+}
+
+.menu a{
+    text-decoration: none;
+    color:rgb(128, 128, 128);
+
+}
+.items{
+    padding-left:20px;
+    font-size:18px;
+    color:rgb(128, 128, 128);
+    font-family:cursive;
+}
+
+.items.button:hover{
+    transform: scale(1.2);
+    background-color : transparent;
+    color: aquamarine;
+    transition: all 0.3s;
+
+}
+.title{
+    padding-left:220px;
+    padding-top: 20px;
+}
+.menu button{
+    padding:10px;
+    background-color: grey;
+    color:#fff;
+    border: none;
+    font-family: fantasy;
+    border-radius: 20px;
+    Height:36px;
+    width:120px;
+}
+.cover{
+    background-image:url("https://preview.colorlib.com/theme/weddingofficiant/images/hero_1.jpg");
+    height:900px;
+    width:1000px;
+    margin-left:150px;
+    display:flex;
+    background-position: center;
+    position:relative;
+
+}
+
+
+.position{
+    border-color:greenyellow;
+    border-radius: 30px;
+    position:absolute;
+
+
+}
+
+.paras h1{
+    text-align: centre;
+    padding-left:50%;
+    padding-top:180px;
+
+
+}
+.pica{
+    background-image: url("https://preview.colorlib.com/theme/weddingofficiant/images/img_1.jpg");
+    width:300px;
+    height:300px;
+    margin-left:200px;
+}
+.picb{
+    background-image: url("https://preview.colorlib.com/theme/weddingofficiant/images/img_3.jpg");
+    width:300px;
+    height:300px;
+
+
+}
+.para{
+    font-size:20px;
+    margin:2px;
+}
+
+.divison{
+    justify-content:evenly;
+    margin-right:200px;
+}
+
+.picc{
+    background-image: url("https://preview.colorlib.com/theme/weddingofficiant/images/img_2.jpg");
+    width:250px;
+    height:300px;
+    margin-left:120px;
+    margin-right:30px;
+}
+.picd{
+    background-image: url("	https://preview.colorlib.com/theme/weddingofficiant/images/img_4.jpg");
+    width:300px;
+    height:300px;
+    margin-left:80px;
+
+
+}
+
+
+.write{
+    font-size:20px;
+    margin:2px;
+}
+
+.divi{
+    justify-content:evenly;
+    margin-right:200px;
+    margin-left: 200px;
+}
+
+.heading h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left:40%;
+    mrgin-top:30px;
+}
+
+.photoshoot{
+    background-image: url("https://preview.colorlib.com/theme/weddingofficiant/images/hero_2.jpg");
+    box-shadow: 120px 120px #9ff63b; 
+    height: 500px;
+    width: 80%;
+    background-size: cover;
+    background-position: center center; 
+    margin:10%;           
+}
+
+.text{
+    
+    
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: 'Quicksand', sans-serif;
+    margin-left:500px;
+    margin-right:500px;
+}
+
+.textp{
+    margin:400x;
+}
+
+
+.wed{
+    
+    
+    margin-left: 200px;
+    margin-right: 300px;
+    
+
+}
+.moon{
+    margin-left: 200px;
+    margin-right: 300px;
+    
+}
+
+.red{
+    margin-left: 200px;
+    margin-right: 300px;
+    
+}
+
+.ring i{
+    
+    font-size:80px;
+    color:wheat;
+}
+
+.invitation i{
+    
+    font-size:80px;
+    color:wheat;
+    padding-right:0px;
+
+
+}
+
+.wine i{
+
+    font-size:80px;
+    color:wheat;
+
+}
+
+
+
+
+
+
+
+
+
+.frequency{
+    text-align: centre;
+    margin-left:30%;
+    padding-top:20px;
+}
+.query{
+    margin-left: 120px;
+    margin-right:120px;
+    
+    
+    
+}
+
+.q1{
+    border-style: groove;
+    margin-bottom:10px;
+    padding-left:5px;
+}
+.q2{
+    border-style: groove;
+    margin-bottom:10px;
+    padding-left:5px;
+}
+.q3{
+    border-style: groove;
+    margin-bottom:10px;
+    padding-left:5px;
+}
+.q4{
+    border-style: groove;
+    margin-bottom:10px;
+    padding-left:5px;
+}
+.q5{
+    border-style: groove;
+    margin-bottom:10px;
+    padding-left:5px;
+}
+
+.about{
+        color:whitesmoke;
+}
+.footer{
+    background-color: #000000;
+    padding-left:140px;
+    padding-right:140px;
+    padding-top:130px;
+    padding-bottom:130px;
+}
+
+
+
+
+
+
+
+
+
+
+
